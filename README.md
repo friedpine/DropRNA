@@ -24,6 +24,7 @@ While running command, the configures are recorded in the file called `config_dr
     star = /path/to/STAR
     whitelistDir = /path/to/whitelist_file_directory
     cellranger_ref_hg38 = /path/to/reference/refdata-cellranger-GRCh38-1.2.0/
+    transc_gene = /path/to/transc_gene.txt
 
 
 ## Process Steps
